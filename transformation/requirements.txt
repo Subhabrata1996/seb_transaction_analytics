@@ -1,0 +1,9 @@
+functions-framework==3.3.0
+cloudevents==1.9.0
+pandas==2.0.3
+google-cloud-storage==2.12.0
+google-cloud-bigquery==3.12.0
+pytest==7.2.0
+fsspec==2023.10.0
+gcsfs==2023.10.0
+pyarrow==13.0.0
